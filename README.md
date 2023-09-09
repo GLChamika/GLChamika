@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiru Galhena</h1>
-<h3 align="center">A final year Information Systems undergraduate</h3>
+<h3 align="center">An Information Systems graduate from the University of Colombo School of Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glchamika&label=Profile%20views&color=0e75b6&style=flat" alt="glchamika" /> </p>
 
