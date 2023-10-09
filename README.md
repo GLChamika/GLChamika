@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lahiru Galhena</h1>
+<h1 align="center">Well, hello there👋</h1>
 <h3 align="center">DevOps Enthusiast | An Information Systems graduate from the University of Colombo School of Computing</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glchamika" alt="glchamika" /></a> </p>
