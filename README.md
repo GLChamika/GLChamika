@@ -1,5 +1,5 @@
 <h1 align="center">Well, hello there👋</h1>
-<h3 align="center">DevOps Enthusiast | An Information Systems graduate from the University of Colombo School of Computing</h3>
+<h3 align="center">Highly motivated and goal-oriented Information Systems graduate eager to contribute maximum effort as a DevOps Engineer. With a well-honed skill set, I strive to bridge the gap between development and operations, implementing efficient processes for optimized workflows and system reliability.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glchamika" alt="glchamika" /></a> </p>
 
