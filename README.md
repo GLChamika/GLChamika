@@ -1,5 +1,8 @@
 <h1 align="center">Well, hello there👋</h1>
-<h4 align="center">Highly motivated and goal-oriented Information Systems graduate eager to contribute maximum effort as a DevOps Engineer. With a well-honed skill set, I strive to bridge the gap between development and operations, implementing efficient processes for optimized workflows and system reliability.</h4>
+<br>
+
+<h3>Who am I?</h3>
+<p align="center">A highly motivated and goal-oriented Information Systems graduate who is eager to contribute his maximum effort as a DevOps Engineer. With a well-honed skill set, I strive to bridge the gap between development and operations, implementing efficient processes to optimize workflows and ensure system reliability.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glchamika" alt="glchamika" /></a> </p>
 
