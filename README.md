@@ -24,6 +24,6 @@
 <br>
 <h3 align="left">My stats:</h3>
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glchamika&show_icons=true&locale=en&layout=compact" alt="glchamika" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLChamika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glchamika&show_icons=true&locale=en" alt="glchamika" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLChamika&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="glchamika" /></p>
