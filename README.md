@@ -1,4 +1,4 @@
-<h1 align="center">Well, hello there👋</h1>
+<h1 align="center">Hello there👋, I'm Lahiru Galhena</h1>
 <br>
 
 <h3>Who am I ?</h3>
