@@ -20,28 +20,28 @@
 <br>
 
 ### 🛠️ Tech Stack
-<p align="center">
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50"/>
-<!-- DevOps & CI/CD -->
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" width="50" height="50"/>
-<!-- Containers & IaC -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" height="50"/>
-<!-- Scripting & Monitoring -->
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50"/>
-<!-- Programming & Frameworks -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-</p>
+
+#### ☁️ Cloud Platforms
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50" title="Azure"/>
+
+#### 🚀 DevOps & CI/CD
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" title="Jenkins"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" title="GitHub Actions"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" width="50" height="50" title="Bitbucket"/> <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="50" height="50" title="SonarQube"/> <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" width="50" height="50" title="Nexus"/>
+
+#### 🐳 Containers & Orchestration
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" title="Docker"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" title="Kubernetes"/>
+
+#### ⚙️ Infrastructure as Code
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" height="50" title="Terraform"/>
+
+#### 💻 Scripting & OS
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" title="Bash"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50" title="Linux"/>
+
+#### 📊 Monitoring
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" title="Grafana"/>
+
+#### 👨‍💻 Programming
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React"/>
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
