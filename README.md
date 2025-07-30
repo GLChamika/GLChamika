@@ -21,6 +21,8 @@
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=20&margin-h=20&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=10&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=8" width="100%" />
+</p>
 
 ### 🛠️ Tech Stack
 
