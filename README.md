@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-galhena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:galhenachamika@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"></a>
-  <a href="mailto:galhenachamika@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
@@ -22,8 +21,6 @@
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glchamika" alt="glchamika" /></a> </p>
-<br>
 
 ### 🛠️ Tech Stack
 
@@ -49,21 +46,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React"/>
 
 <br>
-<h3 align="left">My stats:</h3>
-
 
 ---
 
 ### 📊 GitHub Insights
-<p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLChamika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
-<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GLChamika&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GLChamika&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
-
