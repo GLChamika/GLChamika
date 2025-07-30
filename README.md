@@ -1,33 +1,4 @@
 <h1 align="center">👋 Welcome!, I'm Lahiru Galhena</h1>
-<p align="center">
-  <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes wave {
-        0% { transform: translateY(0px); }
-        50% { transform: translateY(-15px); }
-        100% { transform: translateY(0px); }
-      }
-      .waving { animation: wave 1.5s ease-in-out infinite; display: inline-block; }
-      .text { font: bold 48px 'Segoe UI', sans-serif; fill: #58a6ff; }
-      .name { font: bold 50px 'Segoe UI', sans-serif; fill: #ffffff; }
-      @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-      }
-      .welcome { animation: fadeIn 2s ease-out; }
-    </style>
-    
-    <rect width="100%" height="100%" fill="#0d1117" />
-    
-    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" class="text welcome">
-      <tspan class="waving">👋</tspan> Welcome!
-    </text>
-    
-    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="name welcome">
-      I'm Lahiru Galhena
-    </text>
-  </svg>
-</p>
 <h3 align="center">☁️ DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
 
 <p align="center">
