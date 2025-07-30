@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome!, I'm Lahiru Galhena</h1>
-<h3 align="center">☁️ DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
+<h3 align="center"> DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-galhena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -19,7 +19,7 @@
 ---
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=18&margin-h=18&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p><br>
 
 ### 🛠️ Tech Stack
