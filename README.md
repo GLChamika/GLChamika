@@ -19,7 +19,7 @@
 ---
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=18&margin-h=18&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=20&margin-h=20&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p><br>
 
 ### 🛠️ Tech Stack
