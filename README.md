@@ -9,13 +9,12 @@
 ---
 
 ### 🔥 About Me
-🎓 BSc in Information Systems - UCSC, University of Colombo 
-🚀 Passionate about designing and delivering secure, scalable, cloud‑native solutions
-💡 Automation specialist focused on optimizing CI/CD pipelines and cloud environments  
-🌐 Transforming development workflows through IaC and containerization  
-✈️ Tech-savvy traveler who explores new cutting-edge technologies
-✨ Life Beyond Code: Automating by day, unwinding with peaceful sunsets over the fort walls back home 🌅
-
+- 🎓 **BSc in Information Systems** - UCSC, University of Colombo  
+- 🚀 Passionate about designing and delivering **secure, scalable, cloud-native solutions**  
+- 💡 **Automation specialist** focused on optimizing CI/CD pipelines and cloud environments  
+- 🌐 Transforming development workflows through **IaC and containerization**  
+- ✈️ Tech-savvy traveler exploring new cutting-edge technologies globally  
+- ✨ **Life Beyond Code:** Automating by day, unwinding with peaceful sunsets over the fort walls back home 🌅
 ---
 
 <br>
