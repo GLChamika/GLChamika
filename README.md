@@ -24,11 +24,11 @@
 
 ### 🛠️ Tech Stack
 
-#### ☁️ Cloud & Hybrid Solutions
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50" title="Azure"/>  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@main/svg/hybrid.svg" width="50" height="50" title="Hybrid Cloud"/>  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@main/svg/on-premises.svg" width="50" height="50" title="On-Premises"/>
+#### ☁️ Cloud platforms
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50" title="Azure"/>
 
 #### 🚀 CI/CD
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" title="Jenkins"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" title="GitHub Actions"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50" title="Bitbucket"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" title="SonarQube"/>  <img src="https://www.vectorlogo.zone/logos/sonatype_nexus_repository/sonatype_nexus_repository-icon.svg" width="50" height="50" title="Nexus Artifactory"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" title="Jenkins"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" title="GitHub Actions"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50" title="Bitbucket"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" title="SonarQube"/>
 
 #### 🐳 Containers & Orchestration
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" title="Docker"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" title="Kubernetes"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="50" height="50" title="Helm"/>
