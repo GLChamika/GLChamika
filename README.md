@@ -50,7 +50,6 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLChamika&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GLChamika&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
   <br><br>
 </p>
