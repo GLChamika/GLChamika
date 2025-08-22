@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome!, I'm Lahiru Galhena</h1>
-<h3 align="center"> DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
+<h3 align="center"> DevOps Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-galhena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
