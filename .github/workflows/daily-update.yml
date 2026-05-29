@@ -3,7 +3,7 @@ name: Daily README Update
 on:
   schedule:
     - cron: "0 6 * * *" # runs daily at 6 AM UTC
-  workflow_dispatch:
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   update:
@@ -12,21 +12,39 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch random quote
+      - name: Pick sequential SRE tip
         run: |
-          QUOTE=$(curl -s https://api.quotable.io/random | grep -o '"content":"[^"]*"' | cut -d':' -f2 | tr -d '"')
-          AUTHOR=$(curl -s https://api.quotable.io/random | grep -o '"author":"[^"]*"' | cut -d':' -f2 | tr -d '"')
-          echo "$QUOTE — $AUTHOR" > quote.txt
+          # Create a counter file if it doesn't exist
+          if [ ! -f counter.txt ]; then
+            echo 1 > counter.txt
+          fi
+
+          # Read current counter
+          COUNTER=$(cat counter.txt)
+
+          # Get total number of tips
+          TOTAL=$(wc -l < tips.txt)
+
+          # Pick the tip at line COUNTER
+          TIP=$(sed -n "${COUNTER}p" tips.txt)
+          echo "$TIP" > tip.txt
+
+          # Increment counter (wrap around if exceeds TOTAL)
+          NEXT=$((COUNTER + 1))
+          if [ $NEXT -gt $TOTAL ]; then
+            NEXT=1
+          fi
+          echo $NEXT > counter.txt
 
       - name: Update README
         run: |
-          QUOTE=$(cat quote.txt)
-          sed -i "s|<!--QUOTE-->.*<!--ENDQUOTE-->|<!--QUOTE--> $QUOTE <!--ENDQUOTE-->|" README.md
+          TIP=$(cat tip.txt)
+          sed -i "s|<!--QUOTE-->.*<!--ENDQUOTE-->|<!--QUOTE--> $TIP <!--ENDQUOTE-->|" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Daily README update with new quote"
+          git add README.md counter.txt
+          git commit -m "Daily README update with new SRE tip"
           git push
