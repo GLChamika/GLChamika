@@ -12,7 +12,7 @@
 
 **💡 Tip of the Day**
 
-<!--QUOTE--> Initial placeholder <!--ENDQUOTE-->
+<!--QUOTE--> Ensure backups are tested and restorable. <!--ENDQUOTE-->
 
 ---
 
