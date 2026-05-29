@@ -12,8 +12,7 @@
 
 **💡 Tip of the Day**
 
-<!--QUOTE--> > *"Prioritize observability: logs, metrics, and traces."*
- - (Daily SRE: 2026-05-29) <!--ENDQUOTE-->
+<!--QUOTE--> Initial placeholder <!--ENDQUOTE-->
 
 ---
 
