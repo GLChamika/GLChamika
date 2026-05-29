@@ -10,9 +10,9 @@
   </a>
 </p>
 
-*Tip of the Day*
+**💡 Tip of the Day**
 
-💡<!--QUOTE--> > 💡 *"Use Infrastructure as Code for consistency."*
+<!--QUOTE--> 💡 *"Use Infrastructure as Code for consistency."*
 — Daily SRE (Last updated: 2026-05-29) <!--ENDQUOTE-->
 
 ---
