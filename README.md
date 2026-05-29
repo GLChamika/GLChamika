@@ -12,8 +12,7 @@
 
 **💡 Tip of the Day**
 
-<!--QUOTE--> 💡 *"Use Infrastructure as Code for consistency."*
-— Daily SRE (Last updated: 2026-05-29) <!--ENDQUOTE-->
+<!--QUOTE--> *"Use Infrastructure as Code for consistency."*<!--ENDQUOTE-->
 
 ---
 
