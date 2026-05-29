@@ -13,7 +13,7 @@
 ---
 *Tip of the Day*
 
-💡<!--QUOTE--> Always automate repetitive tasks. <!--ENDQUOTE-->
+💡<!--QUOTE--> Monitor SLIs, SLOs, and error budgets. <!--ENDQUOTE-->
 
 ---
 
