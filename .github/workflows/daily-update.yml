@@ -39,9 +39,7 @@ jobs:
       - name: Update README
         run: |
           TIP=$(cat tip.txt)
-          DATE=$(date +"%Y-%m-%d")
-          OUTPUT="$TIP\n"
-          sed -i "s|<!--QUOTE-->.*<!--ENDQUOTE-->|<!--QUOTE--> $OUTPUT <!--ENDQUOTE-->|" README.md
+          sed -i "s|<!--QUOTE-->.*<!--ENDQUOTE-->|<!--QUOTE--> $TIP <!--ENDQUOTE-->|" README.md
           
       - name: Commit changes
         run: |
