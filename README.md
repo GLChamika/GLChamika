@@ -12,7 +12,7 @@
 
 ---
 
-<!--QUOTE-->  —  <!--ENDQUOTE-->
+<!--QUOTE--> ... <!--ENDQUOTE-->
 
 ---
 
