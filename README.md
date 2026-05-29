@@ -11,8 +11,8 @@
 </p>
 
 ---
-
-<!--QUOTE--> Always automate repetitive tasks. <!--ENDQUOTE-->
+**Tip of the Day**  
+💡<!--QUOTE--> Always automate repetitive tasks. <!--ENDQUOTE-->
 
 ---
 
