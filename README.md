@@ -12,7 +12,7 @@
 
 ---
 
-<!--QUOTE--> ... <!--ENDQUOTE-->
+<!--QUOTE--> Initial placeholder <!--ENDQUOTE-->
 
 ---
 
