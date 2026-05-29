@@ -40,7 +40,7 @@ jobs:
         run: |
           TIP=$(cat tip.txt)
           DATE=$(date +"%Y-%m-%d")
-          OUTPUT="> 💡 *\"$TIP\"*\n— Daily SRE (Last updated: $DATE)"
+          OUTPUT="> 💡*\"$TIP\"*\n - (Daily SRE: $DATE)"
           sed -i "s|<!--QUOTE-->.*<!--ENDQUOTE-->|<!--QUOTE--> $OUTPUT <!--ENDQUOTE-->|" README.md
           
       - name: Commit changes
