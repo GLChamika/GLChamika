@@ -1,0 +1,62 @@
+Always automate repetitive tasks.
+Monitor SLIs, SLOs, and error budgets.
+Use Infrastructure as Code for consistency.
+Design systems for resilience and graceful degradation.
+Implement CI/CD pipelines with automated testing.
+Prioritize observability: logs, metrics, and traces.
+Perform chaos engineering to validate reliability.
+Document runbooks for incident response.
+Embrace blameless postmortems to learn from failures.
+Keep deployments small and frequent to reduce risk.
+Use feature flags to control rollouts safely.
+Ensure backups are tested and restorable.
+Design for scalability from the start.
+Use health checks and readiness probes in containers.
+Automate infrastructure provisioning with Terraform.
+Secure secrets with vaults, not environment variables.
+Implement least privilege access for all systems.
+Use monitoring alerts with actionable thresholds.
+Track mean time to recovery (MTTR).
+Practice disaster recovery drills regularly.
+Standardize logging formats across services.
+Use dashboards to visualize system health.
+Automate dependency updates to reduce vulnerabilities.
+Test infrastructure changes in staging before production.
+Use canary releases for safer deployments.
+Measure latency, throughput, and error rates consistently.
+Keep documentation up to date with automation.
+Design systems to fail fast and recover quickly.
+Use distributed tracing to debug microservices.
+Continuously review and improve incident response processes.
+Design systems with redundancy to avoid single points of failure.
+Use container orchestration for scalability and resilience.
+Automate compliance checks in CI/CD pipelines.
+Implement rate limiting to protect services.
+Use blue-green deployments for zero downtime.
+Track change failure rate as a key metric.
+Practice infrastructure cost optimization regularly.
+Use synthetic monitoring to detect user-facing issues early.
+Automate certificate renewals to avoid outages.
+Design alerts to be actionable, not noisy.
+Use service level objectives to align reliability with business goals.
+Implement centralized logging for easier troubleshooting.
+Test rollback procedures before you need them.
+Use chaos experiments to validate failover strategies.
+Automate onboarding tasks for new engineers.
+Design APIs with backward compatibility in mind.
+Use peer reviews for infrastructure code changes.
+Implement automated security scans in pipelines.
+Track capacity usage to plan scaling ahead of demand.
+Use error budgets to balance innovation and reliability.
+Automate patch management for servers and containers.
+Design systems to degrade gracefully under load.
+Use observability tools to correlate logs, metrics, and traces.
+Implement circuit breakers in distributed systems.
+Practice load testing before major releases.
+Use configuration management tools for consistency.
+Automate infrastructure drift detection.
+Design alerts with escalation policies.
+Use dashboards to communicate system health to stakeholders.
+Track incident frequency and severity trends.
+Automate failover testing for critical services.
+Keep runbooks version-controlled and accessible.
