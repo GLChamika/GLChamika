@@ -12,7 +12,8 @@
 
 **💡 Tip of the Day**
 
-<!--QUOTE--> *"Use Infrastructure as Code for consistency."*<!--ENDQUOTE-->
+<!--QUOTE--> > *"Prioritize observability: logs, metrics, and traces."*
+ - (Daily SRE: 2026-05-29) <!--ENDQUOTE-->
 
 ---
 
