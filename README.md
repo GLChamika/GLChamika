@@ -12,6 +12,10 @@
 
 ---
 
+<!--QUOTE--> Initial placeholder <!--ENDQUOTE-->
+
+---
+
 ### 🔥 About Me
 🎓 BSc in Information Systems - UCSC, University of Colombo  
 ⚙️ Currently working as a **Site Reliability Engineer (SRE)**  
