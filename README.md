@@ -10,7 +10,6 @@
   </a>
 </p>
 
----
 *Tip of the Day*
 
 💡<!--QUOTE--> Monitor SLIs, SLOs, and error budgets. <!--ENDQUOTE-->
@@ -19,22 +18,22 @@
 
 ### 🔥 About Me
 🎓 BSc in Information Systems - UCSC, University of Colombo  
-⚙️ Currently working as a **Site Reliability Engineer (SRE)**  
+⚙️ Currently working as a **Site Reliability Engineer (SRE)**
+🌐 Contributor to open-source tools
 🚀 Building resilient, scalable, and secure cloud-native systems  
-💡 Obsessed with automation, observability, and performance optimization  
 🌐 Driving reliability through CI/CD, IaC, and container orchestration  
 ✨ Beyond Tech: Exploring sunsets 🌅 and new horizons ✈️  
 
 ---
 
-### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GLChamika&theme=darkhub&margin-w=10&margin-h=15&no-frame=true&column=8" />
+  <!-- Extra Badges -->
+  <img src="https://img.shields.io/badge/Contributions-100%2B-green" alt="Contributions Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange" alt="Open Source Badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue" alt="CI/CD Badge" />
 </p>
 
----
-
-### 🛠️ Tech Stack (Clickable Badges)
+### 🛠️ Tech Stack
 
 #### ☁️ Cloud Platforms  
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
