@@ -3,19 +3,20 @@ name: Daily README Update
 on:
   schedule:
     - cron: "0 6 * * *" # runs daily at 6 AM UTC
-  workflow_dispatch: # allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch random quote
         run: |
-          curl -s https://api.quotable.io/random > quote.json
-          cat quote.json | jq -r '.content + " — " + .author' > quote.txt
+          QUOTE=$(curl -s https://api.quotable.io/random | grep -o '"content":"[^"]*"' | cut -d':' -f2 | tr -d '"')
+          AUTHOR=$(curl -s https://api.quotable.io/random | grep -o '"author":"[^"]*"' | cut -d':' -f2 | tr -d '"')
+          echo "$QUOTE — $AUTHOR" > quote.txt
 
       - name: Update README
         run: |
