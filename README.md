@@ -12,7 +12,8 @@
 
 *Tip of the Day*
 
-💡<!--QUOTE--> Monitor SLIs, SLOs, and error budgets. <!--ENDQUOTE-->
+💡<!--QUOTE--> > 💡 *"Use Infrastructure as Code for consistency."*
+— Daily SRE (Last updated: 2026-05-29) <!--ENDQUOTE-->
 
 ---
 
