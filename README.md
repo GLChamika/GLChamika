@@ -12,7 +12,7 @@
 
 ---
 
-<!--QUOTE--> Initial placeholder <!--ENDQUOTE-->
+<!--QUOTE--> Always automate repetitive tasks. <!--ENDQUOTE-->
 
 ---
 
