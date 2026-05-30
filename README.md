@@ -33,6 +33,10 @@
 </p><br>
 
 <div align="center">
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
   
 ### Tech Stack
 
@@ -74,10 +78,6 @@
   <img src="https://raw.githubusercontent.com/GLChamika/GLChamika/output/snake.svg" alt="Snake animation"/>
 </p><br>
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GLChamika&style=flat-square&color=blue" alt="Profile Views"/>
