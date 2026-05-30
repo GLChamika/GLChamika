@@ -14,9 +14,6 @@ jobs:
         with:
           github_user_name: GLChamika
           outputs: dist/snake.svg
-          snake_color: "#E4A700"        # Snake color (white)
-          grid_color: "#848384"         # Grid color (dark gray)
-          background_color: "#00000000" # Transparent background
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
