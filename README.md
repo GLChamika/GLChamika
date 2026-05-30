@@ -80,8 +80,9 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/GLChamika/GLChamika/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/GLChamika/GLChamika/output/snake.svg" alt="Snake animation"/>
 </p>
+
 
 ---
 
