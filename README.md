@@ -65,18 +65,15 @@
 <br>
   
 ### GitHub Insights
-
-</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GLChamika&theme=dark&hide_border=true" height="165"/>
 </p><br>
-
 
 ### 🐍 Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/GLChamika/GLChamika/output/snake.svg" alt="Snake animation"/>
 </p><br>
-
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
