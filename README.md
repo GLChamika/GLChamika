@@ -69,22 +69,14 @@
 </div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GLChamika&theme=dark&hide_border=true" height="165"/>
-</p>
+</p><br>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GLChamika&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
+### 🐍 Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/GLChamika/GLChamika/output/snake.svg" alt="Snake animation"/>
-</p>
+</p><br>
 
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
