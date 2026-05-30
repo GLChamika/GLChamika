@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hey there, I'm Lahiru Galhena</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=500&lines=Site+Reliability+Engineer;Cloud+%26+DevOps+Specialist;Automation+%26+CI/CD+Optimizer;Infrastructure+as+Code+Advocate;Observability+%26+Resilience+Champion" />
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there,+I'm+Lahiru+Galhena" />
+</h1><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lahiru-galhena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
@@ -9,31 +8,33 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+<br>
 
-**💡 Tip of the Day**
+<p align="center">
+ 💡 Tip of the Day:  
+  <!--QUOTE--> Ensure backups are tested and restorable. <!--ENDQUOTE-->
+</p>
+<br>
 
-<!--QUOTE--> Ensure backups are tested and restorable. <!--ENDQUOTE-->
+### Who am I
 
----
-
-### 🔥 About Me
-🎓 BSc in Information Systems - UCSC, University of Colombo  
-⚙️ Currently working as a **Site Reliability Engineer (SRE)**
-🌐 Contributor to open-source tools
+⚙️ Currently working as a **Site Reliability Engineer (SRE)**  
+🎓 **BSc in Information Systems** - UCSC, University of Colombo  
+🌐 Open-source contributor  
 🚀 Building resilient, scalable, and secure cloud-native systems  
-🌐 Driving reliability through CI/CD, IaC, and container orchestration  
-✨ Beyond Tech: Exploring sunsets 🌅 and new horizons ✈️  
+✨ Beyond Tech: Exploring sunsets and new horizons
 
----
-
+<br>
 <p align="center">
   <!-- Extra Badges -->
   <img src="https://img.shields.io/badge/Contributions-100%2B-green" alt="Contributions Badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange" alt="Open Source Badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue" alt="CI/CD Badge" />
-</p>
+</p><br>
 
-### 🛠️ Tech Stack
+<div align="center">
+  
+### Tech Stack
 
 #### ☁️ Cloud Platforms  
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -61,13 +62,15 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 
----
+<br>
+  
+### GitHub Insights
 
-### 📊 GitHub Insights
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLChamika&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GLChamika&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GLChamika&theme=dark&hide_border=true" height="165"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GLChamika&theme=react-dark&hide_border=true&area=true" />
@@ -82,7 +85,6 @@
 
 ---
 
-### ✨ Fun Section
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
