@@ -24,7 +24,7 @@
 🚀 Building resilient, scalable, and secure cloud-native systems  
 ✨ Beyond Tech: Exploring sunsets and new horizons
 
-<br>
+<br><br>
 <p align="center">
   <!-- Extra Badges -->
   <img src="https://img.shields.io/badge/Contributions-100%2B-green" alt="Contributions Badge" />
@@ -34,9 +34,9 @@
 
 <div align="center">
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+</p> -->
   
 ### Tech Stack
 
