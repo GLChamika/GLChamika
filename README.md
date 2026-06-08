@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Standardize logging formats across services. <!--ENDQUOTE-->
+  <!--QUOTE--> Use dashboards to visualize system health. <!--ENDQUOTE-->
 </p>
 <br>
 
