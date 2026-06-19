@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use container orchestration for scalability and resilience. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate compliance checks in CI/CD pipelines. <!--ENDQUOTE-->
 </p>
 <br>
 
