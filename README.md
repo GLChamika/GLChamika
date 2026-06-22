@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use blue-green deployments for zero downtime. <!--ENDQUOTE-->
+  <!--QUOTE--> Track change failure rate as a key metric. <!--ENDQUOTE-->
 </p>
 <br>
 
