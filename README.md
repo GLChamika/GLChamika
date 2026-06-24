@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Practice infrastructure cost optimization regularly. <!--ENDQUOTE-->
+  <!--QUOTE--> Use synthetic monitoring to detect user-facing issues early. <!--ENDQUOTE-->
 </p>
 <br>
 
