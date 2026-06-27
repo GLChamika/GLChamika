@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design alerts to be actionable, not noisy. <!--ENDQUOTE-->
+  <!--QUOTE--> Use service level objectives to align reliability with business goals. <!--ENDQUOTE-->
 </p>
 <br>
 
