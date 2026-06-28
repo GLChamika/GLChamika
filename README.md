@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use service level objectives to align reliability with business goals. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement centralized logging for easier troubleshooting. <!--ENDQUOTE-->
 </p>
 <br>
 
