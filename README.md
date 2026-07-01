@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use chaos experiments to validate failover strategies. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate onboarding tasks for new engineers. <!--ENDQUOTE-->
 </p>
 <br>
 
