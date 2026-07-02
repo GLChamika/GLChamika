@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate onboarding tasks for new engineers. <!--ENDQUOTE-->
+  <!--QUOTE--> Design APIs with backward compatibility in mind. <!--ENDQUOTE-->
 </p>
 <br>
 
