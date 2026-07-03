@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design APIs with backward compatibility in mind. <!--ENDQUOTE-->
+  <!--QUOTE--> Use peer reviews for infrastructure code changes. <!--ENDQUOTE-->
 </p>
 <br>
 
