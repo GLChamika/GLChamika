@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use peer reviews for infrastructure code changes. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement automated security scans in pipelines. <!--ENDQUOTE-->
 </p>
 <br>
 
