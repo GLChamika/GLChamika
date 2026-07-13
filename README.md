@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use configuration management tools for consistency. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate infrastructure drift detection. <!--ENDQUOTE-->
 </p>
 <br>
 
