@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate infrastructure drift detection. <!--ENDQUOTE-->
+  <!--QUOTE--> Design alerts with escalation policies. <!--ENDQUOTE-->
 </p>
 <br>
 
