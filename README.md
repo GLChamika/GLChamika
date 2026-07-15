@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design alerts with escalation policies. <!--ENDQUOTE-->
+  <!--QUOTE--> Use dashboards to communicate system health to stakeholders. <!--ENDQUOTE-->
 </p>
 <br>
 
