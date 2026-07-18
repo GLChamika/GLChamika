@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate failover testing for critical services. <!--ENDQUOTE-->
+  <!--QUOTE--> Keep runbooks version-controlled and accessible. <!--ENDQUOTE-->
 </p>
 <br>
 
