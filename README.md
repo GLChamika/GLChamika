@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Prioritize observability: logs, metrics, and traces. <!--ENDQUOTE-->
+  <!--QUOTE--> Perform chaos engineering to validate reliability. <!--ENDQUOTE-->
 </p>
 <br>
 
