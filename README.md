@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Document runbooks for incident response. <!--ENDQUOTE-->
+  <!--QUOTE--> Embrace blameless postmortems to learn from failures. <!--ENDQUOTE-->
 </p>
 <br>
 
