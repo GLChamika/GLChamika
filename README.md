@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Embrace blameless postmortems to learn from failures. <!--ENDQUOTE-->
+  <!--QUOTE--> Keep deployments small and frequent to reduce risk. <!--ENDQUOTE-->
 </p>
 <br>
 
