@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use feature flags to control rollouts safely. <!--ENDQUOTE-->
+  <!--QUOTE--> Ensure backups are tested and restorable. <!--ENDQUOTE-->
 </p>
 <br>
 
