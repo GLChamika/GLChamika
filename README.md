@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design for scalability from the start. <!--ENDQUOTE-->
+  <!--QUOTE--> Use health checks and readiness probes in containers. <!--ENDQUOTE-->
 </p>
 <br>
 
