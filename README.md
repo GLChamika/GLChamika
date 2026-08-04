@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Secure secrets with vaults, not environment variables. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement least privilege access for all systems. <!--ENDQUOTE-->
 </p>
 <br>
 
