@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Track mean time to recovery (MTTR). <!--ENDQUOTE-->
+  <!--QUOTE--> Practice disaster recovery drills regularly. <!--ENDQUOTE-->
 </p>
 <br>
 
