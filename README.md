@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use dashboards to visualize system health. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate dependency updates to reduce vulnerabilities. <!--ENDQUOTE-->
 </p>
 <br>
 
