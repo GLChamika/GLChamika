@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Test infrastructure changes in staging before production. <!--ENDQUOTE-->
+  <!--QUOTE--> Use canary releases for safer deployments. <!--ENDQUOTE-->
 </p>
 <br>
 
