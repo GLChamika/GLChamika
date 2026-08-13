@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use canary releases for safer deployments. <!--ENDQUOTE-->
+  <!--QUOTE--> Measure latency, throughput, and error rates consistently. <!--ENDQUOTE-->
 </p>
 <br>
 
