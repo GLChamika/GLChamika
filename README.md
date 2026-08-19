@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design systems with redundancy to avoid single points of failure. <!--ENDQUOTE-->
+  <!--QUOTE--> Use container orchestration for scalability and resilience. <!--ENDQUOTE-->
 </p>
 <br>
 
