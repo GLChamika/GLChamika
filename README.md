@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Track change failure rate as a key metric. <!--ENDQUOTE-->
+  <!--QUOTE--> Practice infrastructure cost optimization regularly. <!--ENDQUOTE-->
 </p>
 <br>
 
