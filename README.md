@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate certificate renewals to avoid outages. <!--ENDQUOTE-->
+  <!--QUOTE--> Design alerts to be actionable, not noisy. <!--ENDQUOTE-->
 </p>
 <br>
 
