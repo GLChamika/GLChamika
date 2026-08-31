@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Test rollback procedures before you need them. <!--ENDQUOTE-->
+  <!--QUOTE--> Use chaos experiments to validate failover strategies. <!--ENDQUOTE-->
 </p>
 <br>
 
