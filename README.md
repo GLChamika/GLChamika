@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement automated security scans in pipelines. <!--ENDQUOTE-->
+  <!--QUOTE--> Track capacity usage to plan scaling ahead of demand. <!--ENDQUOTE-->
 </p>
 <br>
 
