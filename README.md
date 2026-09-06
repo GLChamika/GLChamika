@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Track capacity usage to plan scaling ahead of demand. <!--ENDQUOTE-->
+  <!--QUOTE--> Use error budgets to balance innovation and reliability. <!--ENDQUOTE-->
 </p>
 <br>
 
