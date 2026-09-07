@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use error budgets to balance innovation and reliability. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate patch management for servers and containers. <!--ENDQUOTE-->
 </p>
 <br>
 
