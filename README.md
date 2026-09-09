@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design systems to degrade gracefully under load. <!--ENDQUOTE-->
+  <!--QUOTE--> Use observability tools to correlate logs, metrics, and traces. <!--ENDQUOTE-->
 </p>
 <br>
 
