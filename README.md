@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use observability tools to correlate logs, metrics, and traces. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement circuit breakers in distributed systems. <!--ENDQUOTE-->
 </p>
 <br>
 
