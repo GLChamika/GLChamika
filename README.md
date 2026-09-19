@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Keep runbooks version-controlled and accessible. <!--ENDQUOTE-->
+  <!--QUOTE--> Always automate repetitive tasks. <!--ENDQUOTE-->
 </p>
 <br>
 
