@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Monitor SLIs, SLOs, and error budgets. <!--ENDQUOTE-->
+  <!--QUOTE--> Use Infrastructure as Code for consistency. <!--ENDQUOTE-->
 </p>
 <br>
 
