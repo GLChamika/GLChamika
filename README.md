@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use Infrastructure as Code for consistency. <!--ENDQUOTE-->
+  <!--QUOTE--> Design systems for resilience and graceful degradation. <!--ENDQUOTE-->
 </p>
 <br>
 
