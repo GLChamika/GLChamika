@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design systems for resilience and graceful degradation. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement CI/CD pipelines with automated testing. <!--ENDQUOTE-->
 </p>
 <br>
 
