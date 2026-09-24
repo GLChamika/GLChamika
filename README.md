@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement CI/CD pipelines with automated testing. <!--ENDQUOTE-->
+  <!--QUOTE--> Prioritize observability: logs, metrics, and traces. <!--ENDQUOTE-->
 </p>
 <br>
 
