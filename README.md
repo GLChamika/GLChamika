@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Keep deployments small and frequent to reduce risk. <!--ENDQUOTE-->
+  <!--QUOTE--> Use feature flags to control rollouts safely. <!--ENDQUOTE-->
 </p>
 <br>
 
