@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Ensure backups are tested and restorable. <!--ENDQUOTE-->
+  <!--QUOTE--> Design for scalability from the start. <!--ENDQUOTE-->
 </p>
 <br>
 
