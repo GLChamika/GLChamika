@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use health checks and readiness probes in containers. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate infrastructure provisioning with Terraform. <!--ENDQUOTE-->
 </p>
 <br>
 
