@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate infrastructure provisioning with Terraform. <!--ENDQUOTE-->
+  <!--QUOTE--> Secure secrets with vaults, not environment variables. <!--ENDQUOTE-->
 </p>
 <br>
 
