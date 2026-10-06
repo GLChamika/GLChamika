@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement least privilege access for all systems. <!--ENDQUOTE-->
+  <!--QUOTE--> Use monitoring alerts with actionable thresholds. <!--ENDQUOTE-->
 </p>
 <br>
 
