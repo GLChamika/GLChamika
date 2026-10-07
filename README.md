@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use monitoring alerts with actionable thresholds. <!--ENDQUOTE-->
+  <!--QUOTE--> Track mean time to recovery (MTTR). <!--ENDQUOTE-->
 </p>
 <br>
 
