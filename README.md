@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Practice disaster recovery drills regularly. <!--ENDQUOTE-->
+  <!--QUOTE--> Standardize logging formats across services. <!--ENDQUOTE-->
 </p>
 <br>
 
