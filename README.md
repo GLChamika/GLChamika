@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate dependency updates to reduce vulnerabilities. <!--ENDQUOTE-->
+  <!--QUOTE--> Test infrastructure changes in staging before production. <!--ENDQUOTE-->
 </p>
 <br>
 
