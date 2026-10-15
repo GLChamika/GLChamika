@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Measure latency, throughput, and error rates consistently. <!--ENDQUOTE-->
+  <!--QUOTE--> Keep documentation up to date with automation. <!--ENDQUOTE-->
 </p>
 <br>
 
