@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Keep documentation up to date with automation. <!--ENDQUOTE-->
+  <!--QUOTE--> Design systems to fail fast and recover quickly. <!--ENDQUOTE-->
 </p>
 <br>
 
