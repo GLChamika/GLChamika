@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Design systems to fail fast and recover quickly. <!--ENDQUOTE-->
+  <!--QUOTE--> Use distributed tracing to debug microservices. <!--ENDQUOTE-->
 </p>
 <br>
 
