@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use distributed tracing to debug microservices. <!--ENDQUOTE-->
+  <!--QUOTE--> Continuously review and improve incident response processes. <!--ENDQUOTE-->
 </p>
 <br>
 
