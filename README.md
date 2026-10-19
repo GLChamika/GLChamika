@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Continuously review and improve incident response processes. <!--ENDQUOTE-->
+  <!--QUOTE--> Design systems with redundancy to avoid single points of failure. <!--ENDQUOTE-->
 </p>
 <br>
 
