@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate compliance checks in CI/CD pipelines. <!--ENDQUOTE-->
+  <!--QUOTE--> Implement rate limiting to protect services. <!--ENDQUOTE-->
 </p>
 <br>
 
