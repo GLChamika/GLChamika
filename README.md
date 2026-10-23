@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement rate limiting to protect services. <!--ENDQUOTE-->
+  <!--QUOTE--> Use blue-green deployments for zero downtime. <!--ENDQUOTE-->
 </p>
 <br>
 
