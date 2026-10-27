@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use synthetic monitoring to detect user-facing issues early. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate certificate renewals to avoid outages. <!--ENDQUOTE-->
 </p>
 <br>
 
