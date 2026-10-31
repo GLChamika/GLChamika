@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement centralized logging for easier troubleshooting. <!--ENDQUOTE-->
+  <!--QUOTE--> Test rollback procedures before you need them. <!--ENDQUOTE-->
 </p>
 <br>
 
