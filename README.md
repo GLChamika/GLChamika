@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Automate patch management for servers and containers. <!--ENDQUOTE-->
+  <!--QUOTE--> Design systems to degrade gracefully under load. <!--ENDQUOTE-->
 </p>
 <br>
 
