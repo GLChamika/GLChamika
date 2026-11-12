@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Implement circuit breakers in distributed systems. <!--ENDQUOTE-->
+  <!--QUOTE--> Practice load testing before major releases. <!--ENDQUOTE-->
 </p>
 <br>
 
