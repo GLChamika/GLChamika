@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Use dashboards to communicate system health to stakeholders. <!--ENDQUOTE-->
+  <!--QUOTE--> Track incident frequency and severity trends. <!--ENDQUOTE-->
 </p>
 <br>
 
