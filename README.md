@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Track incident frequency and severity trends. <!--ENDQUOTE-->
+  <!--QUOTE--> Automate failover testing for critical services. <!--ENDQUOTE-->
 </p>
 <br>
 
