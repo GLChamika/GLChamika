@@ -12,7 +12,7 @@
 
 <p align="center">
  💡 Tip of the Day:  
-  <!--QUOTE--> Perform chaos engineering to validate reliability. <!--ENDQUOTE-->
+  <!--QUOTE--> Document runbooks for incident response. <!--ENDQUOTE-->
 </p>
 <br>
 
